@@ -3,3 +3,5 @@ A simple single-threaded wordlist generator written in C++ for WINDOWS, that com
 To mix different words together you will need to create (in the same folder as the executable) a new file called: wordlist.txt
 In wordlist.txt you will insert each word in their own line.
 Then run BasicWordlistGenerator, choose which options suits you best and wordlist_output.txt will be created, enjoy
+
+OOOps i forgot to mention, without a file named wordlist.txt the tool will immediately close itself. I forgot to put a pause and error message
